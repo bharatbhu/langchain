@@ -1,0 +1,36 @@
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large files
+*.zip
+*.tar.gz
+*.so
+*.dll
+
+# JVM files
+jvm/
+lib/modules
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+venv/
+__pycache__/
+*.pyc
